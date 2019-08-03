@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void llenarData() {
-        listaRV.add("Ella no te quiere");
-        listaRV.add("Segundo Elemento");
+        listaRV.add("Ella si te quiere");
+        listaRV.add("Mentira mrd");
         listaRV.add("Tercero Elemento");
         listaRV.add("Cuarto Elemento");
         listaRV.add("Quinto Elemento");
