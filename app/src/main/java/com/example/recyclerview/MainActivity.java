@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private void llenarData() {
         listaRV.add("Ella si te quiere");
         listaRV.add("Mentira mrd");
-        listaRV.add("Tercero Elemento");
+        listaRV.add("distinguida dama ctm");
         listaRV.add("Cuarto Elemento");
         listaRV.add("Quinto Elemento");
     }
